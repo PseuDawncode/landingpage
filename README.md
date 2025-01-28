@@ -1,4 +1,4 @@
-This is a landing page I created. Inspired by our fronteend intructor.
+This is a landing page I created. Inspired by our frontend intructor.
 
 What I remake:
 -product image
