@@ -5,4 +5,4 @@ What I remake:
 -font-style
 -title
 -section
--Body background color
+-Body background-color
